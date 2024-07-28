@@ -11,8 +11,7 @@ I did a detailed analysis of profit, discount, quantity and sales data on the ba
 I analyzed the sales and made a conclusion that will help in increasing the sales and gaining more profits.
 
 The Project included creating dashboards of:
-1.Complete Analysis of Superstore
-2.Quarter Wise Analysis of Superstore
-3.Region Wise Analysis of Superstore
-4.State Wise Analysis of Superstore
-
+1. Complete Analysis of Superstore
+2. Quarter Wise Analysis of Superstore
+3. Region Wise Analysis of Superstore
+4. State Wise Analysis of Superstore
