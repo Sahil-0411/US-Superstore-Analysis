@@ -1,4 +1,4 @@
-US Superstore Analysis-PowerBI
+# US Superstore Analysis-PowerBI
 
 The Project deals with the data that contains details of different products having different category and sub-category which were sold online in different cities and regions of United States. The Project involved cleaning, transforming and visualizing data to create a Dashboard.
 
